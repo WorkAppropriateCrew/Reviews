@@ -27,7 +27,7 @@
     "cors": "^2.8.5",
     "css-loader": "^3.4.2",
     "express": "^4.17.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mongoose": "^5.5.14",
     "prop-types": "^15.7.2",
     "query-string": "^6.10.1",
